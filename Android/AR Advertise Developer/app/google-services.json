@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1097401046137",
+    "firebase_url": "https://amdoc-68035.firebaseio.com",
+    "project_id": "amdoc-68035",
+    "storage_bucket": "amdoc-68035.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097401046137:android:45be7f67232f17cbdd70a8",
+        "android_client_info": {
+          "package_name": "com.example.amdoc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1097401046137-5pjbp7p983qm619u7qp4f8cbk594m8p7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.amdoc",
+            "certificate_hash": "c8e6d7e6ffefd9bb55797f3425708d52be9b9802"
+          }
+        },
+        {
+          "client_id": "1097401046137-f2r3i5ullm6ejrkqctas3nrsbhq7hq55.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "PUT YOUR KEY HERE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1097401046137-f2r3i5ullm6ejrkqctas3nrsbhq7hq55.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
